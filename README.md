@@ -25,3 +25,12 @@ The program generates a detailed receipt showing all charges and the final total
 -Lists<br>
 -User Input Handling<br>
 -Arithmetic Operations
+
+## ▶️ Running
+
+1 - Clone: "git clone https://github.com/your-username/pizza-cost-calculator.git" <br>
+2 - Nav. Proj. Folder: "cd pizza-cost-calculator" <br>
+3 - Run: "python pizza_calculator.py"
+
+## 💻 Sample Exe.
+
