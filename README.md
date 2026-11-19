@@ -34,10 +34,10 @@ The program generates a detailed receipt showing all charges and the final total
 
 ## 💻 Sample Execution
 <p align="left">
-  <img src="ppp exe.png" width="50%" alt="My GitHub Banner">
+  <img src="ppp exe.png" width="40%" alt="My GitHub Banner">
 </p>
 
 # Sample Receipt Output
 <p align="left">
-  <img src="ppp receipt.png" width="50%" alt="My GitHub Banner">
+  <img src="ppp receipt.png" width="40%" alt="My GitHub Banner">
 </p>
