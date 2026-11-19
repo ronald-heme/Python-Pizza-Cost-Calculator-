@@ -32,5 +32,12 @@ The program generates a detailed receipt showing all charges and the final total
 2 - Nav. Proj. Folder: "cd pizza-cost-calculator" <br>
 3 - Run: "python pizza_calculator.py"
 
-## 💻 Sample Exe.
+## 💻 Sample Execution
+<p align="left">
+  <img src="ppp exe.png" width="100%" alt="My GitHub Banner">
+</p>
 
+# Sample Receipt Output
+<p align="left">
+  <img src="ppp receipt.png" width="100%" alt="My GitHub Banner">
+</p>
