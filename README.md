@@ -1,4 +1,4 @@
-## 🍕 Pizza Cost Calculator
+# 🍕 Pizza Cost Calculator
 
 A Python console application that allows users to customize a pizza order and automatically calculates the final cost.
 
