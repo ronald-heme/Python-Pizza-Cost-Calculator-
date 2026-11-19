@@ -57,4 +57,8 @@ The program generates a detailed receipt showing all charges and the final total
 
 ## What I've Learned
 
-[Menu-based user interaction; Input validation; Loop control; List manipulation; Price calculations; Receipt formatting; Basic business logic implementation]
+From completing this project during my time in community college, I learned a great deal about Python programming and how to build an interactive, menu-driven application. Through developing the Pizza Cost Calculator, I gained hands-on experience with user input handling, input validation, conditional statements, loop control, list manipulation, and performing price calculations based on customer selections. I also learned how to organize program logic to handle discounts, delivery charges, and optional tips while maintaining accurate calculations. Additionally, this project helped me improve my ability to format output, generate clear receipts, and implement basic business logic similar to what might be used in a real-world ordering system. Overall, the project strengthened my problem-solving skills and provided valuable practice writing structured, user-friendly Python code.
+
+## Looking Ahead
+
+Potential improvements include implementing stronger error handling with try/except, preventing duplicate topping selections, supporting multiple pizza orders, adding tax calculations, saving receipts to a file, and developing a graphical user interface (GUI) to enhance the user experience.
