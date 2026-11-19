@@ -19,7 +19,7 @@ A Python console application that allows users to customize a pizza order and au
 The program generates a detailed receipt showing all charges and the final total.
 
 ## 🛠 Coding Techniques Used
--Python 3<br>
+-Python<br>
 -Conditional Statements (if, elif, else)<br>
 -Loops (while)<br>
 -Lists<br>
