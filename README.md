@@ -19,6 +19,7 @@ A Python console application that allows users to customize a pizza order and au
 The program generates a detailed receipt showing all charges and the final total.
 
 ## 🛠 Coding Techniques Used
+
 -Python<br>
 -Conditional Statements (if, elif, else)<br>
 -Loops (while)<br>
@@ -43,11 +44,17 @@ The program generates a detailed receipt showing all charges and the final total
 7. Final receipt is displayed.
 
 ## 💻 Sample Execution
+
 <p align="left">
   <img src="ppp exe.png" width="35%" alt="My GitHub Banner">
 </p>
 
 ## 🧾 Sample Receipt Output
+
 <p align="left">
   <img src="ppp receipt.png" width="35%" alt="My GitHub Banner">
 </p>
+
+## What I've Learned
+
+[Menu-based user interaction; Input validation; Loop control; List manipulation; Price calculations; Receipt formatting; Basic business logic implementation]
