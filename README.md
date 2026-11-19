@@ -1,6 +1,6 @@
 ## 🍕 Pizza Cost Calculator
 
-My Python console application that allows users to customize a pizza order and automatically calculates the final cost.
+A Python console application that allows users to customize a pizza order and automatically calculates the final cost.
 
 ## Project Highlights
 
@@ -17,3 +17,11 @@ My Python console application that allows users to customize a pizza order and a
 ✅ Detailed receipt generation
 
 The program generates a detailed receipt showing all charges and the final total.
+
+## 🛠 Coding Techniques Used
+-Python 3
+-Conditional Statements (if, elif, else)
+-Loops (while)
+-Lists
+-User Input Handling
+-Arithmetic Operations
